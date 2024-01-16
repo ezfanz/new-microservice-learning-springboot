@@ -1,0 +1,11 @@
+com\irfan\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\irfan\productservice\model\Product.class
+com\irfan\productservice\Service\ProductService.class
+com\irfan\productservice\Controller\ProductController.class
+com\irfan\productservice\dto\ProductResponse.class
+com\irfan\productservice\repository\ProductRepository.class
+com\irfan\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\irfan\productservice\Exception\ProductNotFoundException.class
+com\irfan\productservice\model\Product$ProductBuilder.class
+com\irfan\productservice\dto\ProductRequest.class
+com\irfan\productservice\ProductServiceApplication.class
